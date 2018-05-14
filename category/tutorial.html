@@ -1,0 +1,11 @@
+---
+layout: default
+title: Categories
+---
+
+[카테고리이름]에 포함된 글들:
+<ul>
+	{% for post in site.categories.tutorial %}
+	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+</ul>
