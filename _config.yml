@@ -3,7 +3,7 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Kiko Plus"
+name:               "Front-End develop 성장통의 기록들"
 
 author:
   facebook:         your-id
@@ -32,7 +32,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "kiko-plus"
+  id:               "moonhk"
 
 # URL
 url:                "https://moonhk.github.io" # the base hostname & protocol for your site
@@ -62,7 +62,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
+    url:            "https://github.com/moonhk/document"
 
 # Sass
 sass:
