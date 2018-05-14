@@ -7,5 +7,5 @@ tags:
   - link post
 comments: true
 link: 'http://aweekj.github.io/Kiko-plus'
-categories: tutorial
+categories: [tutorial]
 ---
