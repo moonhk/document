@@ -63,7 +63,7 @@ nav:
     url:            "/tags"
   - name:           "Github"
     url:            "https://github.com/moonhk/document"
-  - name:           "Category"
+  - name:           "Categories"
     url:            "/category"
 
 # Sass
