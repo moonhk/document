@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-tutorial 카테고리의 글
 <header class="header">
   <div class="header-title">
     <a href="{{ site.url }}{{ site.baseurl }}">{{ site.name }}</a>
@@ -16,6 +15,7 @@ tutorial 카테고리의 글
     {% endfor %}
   </nav>
 </header>
+tutorial 카테고리의 글
 <ul>
   {% for post in site.categories.tutorial %}
   <li><a href="/document{{ post.url }}">{{ post.title }}</a></li>
