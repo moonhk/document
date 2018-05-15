@@ -20,6 +20,6 @@ title: Categories
 	<h1 class="pageTitle">Categories</h1>
 	<ul>
 		<li><a href="./tutorial">tutorial</a></li>
-		<li><a href="./코딩테스트">코딩테스트</a></li>
+		<li><a href="./codingTest">코딩테스트</a></li>
 	</ul>
 </div>
