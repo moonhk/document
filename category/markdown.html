@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Categories
 ---
 <header class="header">
   <div class="header-title">
@@ -16,11 +15,9 @@ title: Categories
     {% endfor %}
   </nav>
 </header>
-<div class="post">
-	<h1 class="pageTitle">Categories</h1>
-	<ul>
-		<li><a href="./tutorial">tutorial</a></li>
-		<li><a href="./codingTest">코딩테스트</a></li>
-    <li><a href="./markdown">markdown</a></li>
-	</ul>
-</div>
+markdown 카테고리의 글
+<ul>
+  {% for post in site.categories.markdown %}
+  <li><a href="/document{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
