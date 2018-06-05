@@ -19,7 +19,7 @@ title: Categories
 <div class="post">
 	<h1 class="pageTitle">Categories</h1>
 	<ul>
-		<li><a href="./tutorial">tutorial</a></li>
+		<li><a href="./etc">Etc</a></li>
 		<li><a href="./codingTest">코딩테스트</a></li>
     <li><a href="./markdown">markdown</a></li>
 	</ul>
