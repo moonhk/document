@@ -20,9 +20,8 @@ karma도 Grunt와 마찬가지로 npm으로 설치가 가능하다. node를 설�
 
 #### 1. karma-cli 설치
 
-: karma-cli 도 Grunt-cli와 동일하게 karma 명령어를 사용하기 위한 용도이다
-
-: npm install -g karma cli
+* karma-cli 도 Grunt-cli와 동일하게 karma 명령어를 사용하기 위한 용도이다
+* npm install -g karma cli
 
 #### 2. karma 및 jasmine 브라우저 플러그인 설치
 
