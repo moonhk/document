@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Categories
 ---
 <header class="header">
   <div class="header-title">
@@ -16,14 +15,9 @@ title: Categories
     {% endfor %}
   </nav>
 </header>
-<div class="post">
-	<h1 class="pageTitle">Categories</h1>
-	<ul>
-		<li><a href="./codingTest">코딩테스트</a></li>
-    <li><a href="./algorithm">알고리즘</a></li>
-    <li><a href="./javascript">자바스크립트</a></li>
-    <li><a href="./computerScience">컴퓨터기초</a></li>
-    <li><a href="./markdown">마크다운 사용법</a></li>
-    <li><a href="./etc">Etc</a></li>
-	</ul>
-</div>
+javascript 카테고리의 글
+<ul>
+  {% for post in site.categories.computerScience %}
+  <li><a href="/document{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
