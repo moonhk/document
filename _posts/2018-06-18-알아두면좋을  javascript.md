@@ -36,8 +36,5 @@ categories: [javascript]
 * ^ (xor) : 1 - 0 -> 1 , 1 - 1 -> 0 
 * 문자 레이블 : 중첩 for문 사용시 for문에 이름을주고 break, continue에서 사용함
 
-### Array 타입
-
-* 
 
  
