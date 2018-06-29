@@ -202,7 +202,7 @@ body {
 
     &-title {
       margin-bottom: .3rem;
-      font-size : 1.8rem;
+      font-size : 1.5rem;
       font-weight: 600;
     }
 
@@ -213,7 +213,7 @@ body {
     }
 
     &-desc {
-      color: $base-color;
+      color: $base-lighten-color;
       margin-bottom: .25rem;
       font-size :1rem;
     }
@@ -228,7 +228,7 @@ body {
     &-previous {
       float: left;
       padding-left: 2%;
-      font-size : 30px;
+      font-size : 2rem;
       a {
         color: $oc-gray-6;
 
@@ -243,7 +243,7 @@ body {
     &-next {
       float: right;
       padding-right: 2%;
-      font-size : 30px;
+      font-size : 2rem;
       a {
         color: $oc-gray-6;
 
