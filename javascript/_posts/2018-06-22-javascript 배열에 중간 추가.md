@@ -6,7 +6,7 @@ date: 2018-06-22
 tags: [자바스크립트]
 comments: false
 share: false
-categories: [javscript, 정규식]
+categories: [javascript, 정규식]
 ---
 
 ` splice(시작인덱스, 삭제할 요수개수, 추가할 값); `

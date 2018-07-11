@@ -6,7 +6,7 @@ date: 2018-06-22
 tags: [자바스크립트]
 comments: false
 share: false
-categories: [javscript, 정규식]
+categories: [javascript, 정규식]
 ---
 
 input태그에 소수점을 입력한다고 가정해보자.
